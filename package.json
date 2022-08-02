@@ -1,0 +1,24 @@
+{
+  "name": "theme-bootstrap",
+  "version": "1.0.0",
+  "description": "Theme Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Junior Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/juniorhbs/bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juniorhbs/bootstrap/issues"
+  },
+  "homepage": "https://github.com/juniorhbs/bootstrap#readme"
+}
