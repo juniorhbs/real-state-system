@@ -10,15 +10,16 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "bootstrap-select": "^1.13.18",
     "jquery": "^3.6.0"
   },
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/juniorhbs/bootstrap.git"
+    "url": "git+ssh://git@github.com/juniorhbs/real-state-system.git"
   },
   "bugs": {
-    "url": "https://github.com/juniorhbs/bootstrap/issues"
+    "url": "https://github.com/juniorhbs/real-state-system/issues"
   },
-  "homepage": "https://github.com/juniorhbs/bootstrap#readme"
+  "homepage": "https://github.com/juniorhbs/real-state-system#readme"
 }

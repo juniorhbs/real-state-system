@@ -7,3 +7,8 @@
 @import "theme/header";
 
 @import "pages/home";
+@import "fold/list-properties";
+
+*, *:before, *:after {
+  outline: none;
+}
