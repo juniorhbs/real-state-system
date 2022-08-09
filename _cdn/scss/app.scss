@@ -5,10 +5,12 @@
 @import "addons/bootstrap-select";
 
 @import "theme/header";
+@import "theme/foooter";
 
 @import "pages/home";
 @import "fold/list-properties";
+@import "fold/optin";
 
 *, *:before, *:after {
-  outline: none;
+  outline: none !important;
 }
