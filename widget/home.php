@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="col-6 mt-3">
-                    <a href="#" class="text-front">Filtro Avançado &darr;</a>
+                    <a href="?app=filtro" class="text-front">Filtro Avançado &darr;</a>
                 </div>
 
                 <div class="col-6 mt-3 text-right">
@@ -181,7 +181,7 @@
                         <p class="main_properties_item_type">Apartamento - Campeche <i class="icon-location-arrow"></i>
                         </p>
                         <p class="main_properties_item_price text-front">R$ 400.000,00</p>
-                        <a href="" class="btn btn-front btn-block"> Ver Imóvel</a>
+                        <a href="?app=property" class="btn btn-front btn-block"> Ver Imóvel</a>
                     </div>
                     <div class="card-footer d-flex text-muted">
                         <div class="col-4 main_properties_item_features text-center">
@@ -215,7 +215,7 @@
                         <p class="main_properties_item_type">Apartamento - Campeche <i class="icon-location-arrow"></i>
                         </p>
                         <p class="main_properties_item_price text-front">R$ 400.000,00</p>
-                        <a href="" class="btn btn-front btn-block"> Ver Imóvel</a>
+                        <a href="?app=property" class="btn btn-front btn-block"> Ver Imóvel</a>
                     </div>
                     <div class="card-footer d-flex text-muted">
                         <div class="col-4 main_properties_item_features text-center">
@@ -249,7 +249,7 @@
                         <p class="main_properties_item_type">Apartamento - Campeche <i class="icon-location-arrow"></i>
                         </p>
                         <p class="main_properties_item_price text-front">R$ 400.000,00</p>
-                        <a href="" class="btn btn-front btn-block"> Ver Imóvel</a>
+                        <a href="?app=property" class="btn btn-front btn-block"> Ver Imóvel</a>
                     </div>
                     <div class="card-footer d-flex text-muted">
                         <div class="col-4 main_properties_item_features text-center">
@@ -294,7 +294,7 @@
                         <p class="main_properties_item_type">Apartamento - Campeche <i class="icon-location-arrow"></i>
                         </p>
                         <p class="main_properties_item_price text-front">R$ 4.000,00/mês</p>
-                        <a href="" class="btn btn-front btn-block"> Ver Imóvel</a>
+                        <a href="?app=property" class="btn btn-front btn-block"> Ver Imóvel</a>
                     </div>
                     <div class="card-footer d-flex text-muted">
                         <div class="col-4 main_properties_item_features text-center">
@@ -328,7 +328,7 @@
                         <p class="main_properties_item_type">Apartamento - Campeche <i class="icon-location-arrow"></i>
                         </p>
                         <p class="main_properties_item_price text-front">R$ 4.000,00/mês</p>
-                        <a href="" class="btn btn-front btn-block"> Ver Imóvel</a>
+                        <a href="?app=property" class="btn btn-front btn-block"> Ver Imóvel</a>
                     </div>
                     <div class="card-footer d-flex text-muted">
                         <div class="col-4 main_properties_item_features text-center">
@@ -362,7 +362,7 @@
                         <p class="main_properties_item_type">Apartamento - Campeche <i class="icon-location-arrow"></i>
                         </p>
                         <p class="main_properties_item_price text-front">R$ 400.000,00</p>
-                        <a href="" class="btn btn-front btn-block"> Ver Imóvel</a>
+                        <a href="?app=property" class="btn btn-front btn-block"> Ver Imóvel</a>
                     </div>
                     <div class="card-footer d-flex text-muted">
                         <div class="col-4 main_properties_item_features text-center">
