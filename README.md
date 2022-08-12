@@ -2,18 +2,11 @@
 
 Estrutura de site responsivo do seguimento Imobiliário. 
 
-
-## Demonstração
-
-Insira um gif ou um link de alguma demonstração
-
-
 ## Stack utilizada
 
 **Front-end:** Bootstrap, SCSS
 
 **Back-end:** PHP
-
 
 ## Screenshots
 
