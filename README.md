@@ -10,19 +10,19 @@ Estrutura de site responsivo do seguimento Imobiliário.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_home.jpg?raw=true)
+![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/_src/images/screenshot_home.jpg?raw=true)
 
-![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_home_2.jpg?raw=true)
+![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/_src/images/screenshot_home_2.jpg?raw=true)
 
-![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_home_3.jpg?raw=true)
+![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/_src/images/screenshot_home_3.jpg?raw=true)
 
-![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_home_4.jpg?raw=true)
+![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/_src/images/screenshot_home_4.jpg?raw=true)
 
-![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_home_5.jpg?raw=true)
+![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/_src/images/screenshot_home_5.jpg?raw=true)
 
-![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_mobile.jpg?raw=true) ![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_mobile_2.jpg?raw=true) ![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_mobile_3.jpg?raw=true)
+![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/_src/images/screenshot_mobile.jpg?raw=true) ![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_mobile_2.jpg?raw=true) ![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_mobile_3.jpg?raw=true)
 
-![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_mobile_4.jpg?raw=true) ![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_mobile_5.jpg?raw=true) ![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_mobile_6.jpg?raw=true)
+![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/_src/images/screenshot_mobile_4.jpg?raw=true) ![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_mobile_5.jpg?raw=true) ![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_mobile_6.jpg?raw=true)
 
 ## Aprendizados
 
