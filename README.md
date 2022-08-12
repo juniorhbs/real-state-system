@@ -16,7 +16,7 @@ Estrutura de site responsivo do seguimento Imobiliário.
 
 ![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_home_3.jpg?raw=true)
 
-![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_home-4.jpg?raw=true)
+![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_home_4.jpg?raw=true)
 
 ![App Screenshot](https://github.com/juniorhbs/real-state-system/blob/master/screenshot_home_5.jpg?raw=true)
 
